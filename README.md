@@ -1,5 +1,6 @@
-#Replication of StackGans Paper
-In this project I have implemented text to image generation using StackGan.
+# Replication of StackGans Paper
+
+In this project I have implemented text to image generation using StackGan in TensorFlow.
 
 ## Description
 This project is my final project for my Deep Learning course. The project consists of implementation of stackGAN model. The model consists of two stages:
